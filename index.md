@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div style="text-align: center;">
-  <img src="URL_DE_TU_IMAGEN" alt="avatar" style="width: 200px;">
+  <img src="assets/radonxpfp.jpeg" alt="avatar" style="width: 200px;">
 </div>
 
 # ♡ RadonX
